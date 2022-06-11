@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QueryFilters>
+
+
+	<!--用户信息查询条件 -->
+	<QueryFilter name="userQuery">
+		<FiledFilter name="userName" operator="LIKE" dataType="STR" defaultValue=""></FiledFilter>
+	</QueryFilter>
+</QueryFilters>
